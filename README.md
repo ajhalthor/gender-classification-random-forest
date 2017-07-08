@@ -2,7 +2,7 @@
 
 Given a name, we wish to determine the gender of a person. We use Python 3.6.
 
-#### [1 Gender Classification Step by Step Notebook](nbviewer.jupyter.org /github/ajhalthor/Gender-Classification-Random-Forest/blob/master/notebooks/main.ipynb)
+#### [1 Gender Classification Step by Step Notebook](https://nbviewer.jupyter.org/github/ajhalthor/gender-classification-random-forest/blob/master/notebooks/main.ipynb)
 	
 * 1\.1  Modules & Data Gathering
 * 1\.2 Data Preperation & One Hot Encoding
@@ -16,7 +16,7 @@ Given a name, we wish to determine the gender of a person. We use Python 3.6.
 
 
 
-#### [2 Random Forest - Quick Nodes](nbviewer.jupyter.org /github/ajhalthor/Gender-Classification-Random-Forest/blob/master/notebooks/Random Forest.ipynb)
+#### [2 Random Forest - Quick Nodes](https://nbviewer.jupyter.org/github/ajhalthor/gender-classification-random-forest/blob/master/notebooks/Random%20Forest.ipynb)
 
 * 2\.1 Bootstrapping
 * 2\.2 Bagging
